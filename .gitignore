@@ -4,6 +4,7 @@
 */node_modules
 */.pnp
 */api_key.txt
+*/config.js
 .pnp.js
 
 # testing
